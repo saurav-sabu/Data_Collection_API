@@ -20,15 +20,15 @@ Before you begin, ensure you have the following prerequisites:
 
 Follow these steps to collect data on the top-rated TMDB movies using this Jupyter Notebook:
 
-1. **Clone or Download the Notebook**: Clone this GitHub repository or download the Jupyter Notebook (`tmdb_top_rated_movies.ipynb`) to your local machine.
+1. **Clone or Download the Notebook**: Clone this GitHub repository or download the Jupyter Notebook (`Movies_Dataset.ipynb`) to your local machine.
 
-2. **Open the Notebook**: Launch Jupyter Notebook and open the `tmdb_top_rated_movies.ipynb` file.
+2. **Open the Notebook**: Launch Jupyter Notebook and open the `Movies_Dataset.ipynb` file.
 
 3. **Enter Your API Key**: Replace `'YOUR_API_KEY'` in the notebook with your actual TMDB API key.
 
 4. **Run the Notebook**: Execute the notebook cell by cell by clicking on each cell and pressing Shift+Enter. The notebook will guide you through the process of making API requests, processing the data, and displaying the results.
 
-5. **Explore the Data**: Once the notebook is run, you'll have access to the top-rated movies' data. You can explore and analyze the data using Python and visualization libraries like `matplotlib` or `seaborn`.
+5. The data will be saved to a CSV file named `movies_data.csv`.
 
 ## Data Collected
 
@@ -49,7 +49,14 @@ This notebook collects the following data for TMDB's top-rated movies:
 - vote_average
 - vote_count
 
-You can easily customize the notebook to collect additional data or perform more complex analyses as needed.
+The data will be saved in a CSV file for further analysis or use.
+
+## Contributing
+If you would like to contribute to this project, please follow these guidelines:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and test them.
+- Create a pull request with a clear description of your changes.
 
 ## Support
 
