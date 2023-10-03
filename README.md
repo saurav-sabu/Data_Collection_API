@@ -1,6 +1,6 @@
 # TMDB Top Rated Movies Data Collection using API - Jupyter Notebook
 
-This Jupyter Notebook allows you to collect data on the top-rated movies from The Movie Database (TMDB) using TMDB's API. You can fetch information about the highest-rated movies, such as their titles, ratings, and release years. Use this notebook for data analysis, research, or any other purposes related to TMDB's top-rated movies.
+This Jupyter Notebook allows you to collect data on the top-rated movies from The Movie Database (TMDB) using TMDB's API. You can fetch information about the highest-rated movies, such as their titles, ratings, and release years and many more. Use this notebook for data analysis, research, or any other purposes related to TMDB's top-rated movies.
 
 ## Requirements
 
